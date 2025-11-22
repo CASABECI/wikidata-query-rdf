@@ -83,7 +83,7 @@
         <!-- jackson.version for all modules running outside blazegraph, only blazegraph(-service) must use a compatible version  -->
         <jackson.version>2.17.1</jackson.version>
         <jena.version>3.10.0</jena.version>
-        <jersey.version>2.31</jersey.version>
+        <jersey.version>2.46</jersey.version>
         <!-- matching version used by Blazegraph here -->
         <jetty.version>9.4.12.v20180830</jetty.version>
         <kafka-clients.version>3.2.3</kafka-clients.version>
