@@ -86,7 +86,7 @@
         <jersey.version>2.46</jersey.version>
         <!-- matching version used by Blazegraph here -->
         <jetty.version>9.4.12.v20180830</jetty.version>
-        <kafka-clients.version>3.2.3</kafka-clients.version>
+        <kafka-clients.version>4.2.0</kafka-clients.version>
         <!-- version with dependency on SLF4J, compiled with Java 8 -->
         <logback.version>1.3.5</logback.version>
         <metrics.version>4.0.2</metrics.version>
